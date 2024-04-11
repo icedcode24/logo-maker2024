@@ -5,7 +5,7 @@ const { Square } = require('./lib/square.js');
 const { Triangle } = require('./lib/triangle.js');
 
 inquirer
-    .promopt([
+    .prompt([
         {
             type: 'input',
             message: 'Enter 3 characters.',
