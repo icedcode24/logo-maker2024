@@ -1,14 +1,14 @@
 # Logo-maker2024
 
-# Description 
+## Description 
 A command line application that generates a professional style SVG logo.
-# Link
+## Link
 
-# Usage
+## Usage
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
-# Instructions
+## Instructions
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for text
 THEN I can enter up to three characters
